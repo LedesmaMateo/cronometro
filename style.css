@@ -1,0 +1,31 @@
+.navbar{
+    background-color: #90CAF9;
+}
+
+.cronometro{
+    margin-top: 5%;
+    padding: 10%;
+}
+
+.time, .laps-list{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    height: 40px;
+    width: 100px;
+    color: #90CAF9;
+}
+
+.laps{
+    margin-top: 5px;
+    margin-left: 8%;
+} 
+
+#lapsList{
+    margin-top: 20px;
+}
+
+
+
